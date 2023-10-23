@@ -3,6 +3,7 @@
 A simple JSON based line by line database written in Deno.
 
 ## Usage
+
 ```ts
 import DB from "https://deno.land/x/cactodb/mod.ts"
 
